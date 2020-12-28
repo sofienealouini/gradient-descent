@@ -1,0 +1,10 @@
+apartment_prices:
+  n_points: 100
+  slope: 6000.
+  intercept: 0.
+  x_label: 'Superficie (m²)'
+  x_min: 15.
+  x_max: 100.
+  y_label: 'Prix (€)'
+  y_positive_only: True
+  y_noise_standard_deviation: 50000.
